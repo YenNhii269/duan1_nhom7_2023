@@ -11,7 +11,7 @@
     <!-- Bootstrap -->
     <link rel="stylesheet" href="<?= $CONTENT_URL ?>/css/bootstrap.min.css" type="text/css">
     <!-- Font awesome -->
-    <link rel="stylesheet" href="<?= $CONTENT_URL ?>/css/all.min.css" type="text/css">
+    <link rel="stylesheet" href="<?= $CONTENT_URL ?>/css/all.min.css" type="test/css">
     <!-- Slick slider -->
     <link rel="stylesheet" href="<?= $CONTENT_URL ?>/css/slick.css" type="text/css">
     <link rel="stylesheet" href="<?= $CONTENT_URL ?>/css/slick-theme.css" type="text/css">

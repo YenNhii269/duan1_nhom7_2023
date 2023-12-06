@@ -4,7 +4,7 @@
         </div>
         <div class="card-body">
             <?php foreach ($binh_luan_list as $bl) : ?>
-            <div class="review">
+            <div class="review"> 
                 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>
                 <meta itemprop="datePublished" content="01-01-2016"><?= $bl['ngay_bl'] ?>
 

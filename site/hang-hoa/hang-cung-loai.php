@@ -23,7 +23,7 @@
                                 src="<?= $UPLOAD_URL . "/products/" . $hh_cl['hinh'] ?>">
                         </a>
                         <div class="card-body p-0 pt-3">
-                            <h3 class="product-title mh-60">
+                            <h3 class="product-title mh-60"></h3>
                                 <a href="<?= $SITE_URL . '/hang-hoa/chi-tiet.php?ma_hh=' . $hh_cl['ma_hh'] ?>"
                                     data-abc="true">
                                     <?= $hh_cl['ten_hh'] ?>
